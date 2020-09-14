@@ -6,4 +6,6 @@ def batch_badge_creator
   
 end
 
-def
+def assign_rooms
+  
+end
